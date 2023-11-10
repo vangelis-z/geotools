@@ -1,0 +1,12 @@
+{
+    "nodes": [
+        "/home/vangelis/devel/geotools/geotools/angle",
+        "/home/vangelis/devel/geotools/geotools/calculations",
+        "/home/vangelis/devel/geotools/geotools/ellipsoid",
+        "/home/vangelis/devel/geotools/geotools/time",
+        "/home/vangelis/devel/geotools/geotools/__init__.py",
+        "/home/vangelis/devel/geotools/geotools/_version.py",
+        "/home/vangelis/devel/geotools/geotools/geotools.py",
+        "/home/vangelis/devel/geotools/geotools/geotoolsexceptions.py"
+    ]
+}

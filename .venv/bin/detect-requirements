@@ -1,0 +1,3 @@
+#!/home/vangelis/devel/geotools/.venv/bin/python3
+from requirements_detector.run import run
+run()
